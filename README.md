@@ -408,6 +408,4 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using modern AI, RAG technology, and production-ready best practices**
-
 **Powered by**: GPT-4o • OpenAI Embeddings • ChromaDB • FastAPI • React • MongoDB
