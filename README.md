@@ -1,6 +1,6 @@
 # 🧠 AI Knowledge Assistant
 
-A production-grade Personal AI Knowledge Assistant that transforms your documents into an intelligent, conversational knowledge base using advanced RAG (Retrieval Augmented Generation) technology.
+A production-grade Personal AI Knowledge Assistant that transforms your documents into an intelligent, conversational knowledge base using advanced RAG (Retrieval Augmented Generation) technologies.
 
 ## 🌟 Features
 
